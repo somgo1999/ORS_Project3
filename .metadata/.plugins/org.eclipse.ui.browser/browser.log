@@ -1,0 +1,149 @@
+
+Sep 04, 2023 15:56:24.34 NEW SESSION
+Sep 04, 2023 15:56:24.34 [3676:20172:0904/155624.336:ERROR:device_event_log_impl.cc(222)] [15:56:24.336] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Sep 04, 2023 17:18:51.78 [3676:14636:0904/171851.785:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 04, 2023 17:22:04.93 [3676:14636:0904/172204.937:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 04, 2023 17:22:24.33 [3676:14636:0904/172224.331:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 04, 2023 17:43:22.56 [3676:14636:0904/174322.561:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 04, 2023 18:03:46.65 [3676:14636:0904/180246.423:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 04, 2023 18:04:12.40 [3676:14636:0904/180358.391:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 04, 2023 18:04:17.45 [3676:14636:0904/180417.455:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -331
+Sep 04, 2023 19:43:12.54 [3676:14636:0904/194312.547:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 04, 2023 19:43:12.55 [3676:14636:0904/194312.553:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Sep 04, 2023 21:09:26.29 [3676:14636:0904/210925.442:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 04, 2023 22:31:20.67 [3676:14636:0904/211545.908:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 04, 2023 22:31:26.41 [3676:14636:0904/223126.408:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 04, 2023 23:36:10.15 [3676:14636:0904/233610.146:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 05, 2023 24:09:36.51 [3676:14636:0905/000936.511:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 05, 2023 04:09:37.08 [3676:14636:0905/040937.087:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Sep 05, 2023 04:09:37.09 [3676:10152:0905/040937.090:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Sep 05, 2023 12:10:06.80 [3676:14636:0905/121006.806:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 05, 2023 12:10:06.83 [3676:22412:0905/121006.835:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Sep 05, 2023 12:10:13.86 [3676:14636:0905/121013.867:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Sep 05, 2023 12:32:37.95 [3676:14636:0905/123139.612:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 05, 2023 12:43:22.77 [3676:14636:0905/124322.777:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 05, 2023 12:43:53.85 [3676:14636:0905/124353.856:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 05, 2023 12:44:48.15 [3676:14636:0905/124448.153:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 05, 2023 12:46:49.90 [3676:14636:0905/124649.909:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 05, 2023 12:55:34.23 [3676:14636:0905/125534.231:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 05, 2023 12:56:53.23 [3676:14636:0905/125653.233:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -109
+Sep 05, 2023 13:12:41.23 [3676:14636:0905/131241.214:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 05, 2023 13:57:48.95 [3676:14636:0905/135748.956:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Sep 05, 2023 14:12:04.71 [3676:14636:0905/141204.715:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 05, 2023 14:21:44.01 [3676:20172:0905/142144.016:ERROR:device_event_log_impl.cc(222)] [14:21:44.016] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Sep 05, 2023 14:21:44.35 [3676:20172:0905/142144.353:ERROR:device_event_log_impl.cc(222)] [14:21:44.353] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Sep 05, 2023 14:52:25.43 [3676:14636:0905/145225.432:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 05, 2023 15:14:52.55 [3676:14636:0905/151452.558:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Sep 05, 2023 16:00:41.16 [3676:14636:0905/153204.273:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 05, 2023 17:17:33.73 [3676:14636:0905/171733.730:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 05, 2023 17:18:06.03 [3676:14636:0905/171806.033:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 05, 2023 17:19:08.96 [3676:14636:0905/171908.966:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 05, 2023 17:22:41.33 [3676:14636:0905/172241.339:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 05, 2023 17:26:10.67 [3676:14636:0905/172610.673:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 05, 2023 18:42:08.97 [3676:14636:0905/184208.966:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 05, 2023 18:43:11.70 [3676:14636:0905/184311.703:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 05, 2023 19:01:00.28 [3676:14636:0905/190100.286:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Sep 05, 2023 19:18:50.06 [3676:14636:0905/191850.065:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 05, 2023 19:55:31.29 [3676:14636:0905/194250.046:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 05, 2023 20:19:05.31 [3676:14636:0905/201557.705:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 05, 2023 20:36:19.46 [3676:14636:0905/203619.464:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 05, 2023 20:43:18.19 [3676:20172:0905/204318.199:ERROR:device_event_log_impl.cc(222)] [20:43:18.209] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Sep 05, 2023 20:49:55.88 [3676:14636:0905/204955.881:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 05, 2023 21:11:21.52 [3676:14636:0905/211121.521:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 05, 2023 21:31:52.50 [3676:20172:0905/213152.508:ERROR:device_event_log_impl.cc(222)] [21:31:52.504] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Sep 05, 2023 21:31:53.07 [3676:20172:0905/213153.072:ERROR:device_event_log_impl.cc(222)] [21:31:53.071] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Sep 05, 2023 22:20:14.46 [3676:14636:0905/221951.696:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 05, 2023 22:20:15.09 [3676:14636:0905/222015.094:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 05, 2023 22:23:28.74 [3676:14636:0905/222328.747:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 05, 2023 22:24:31.74 [3676:14636:0905/222431.741:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 05, 2023 23:30:40.98 [3676:14636:0905/233040.983:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 05, 2023 23:44:02.71 [3676:14636:0905/234358.520:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 05, 2023 23:44:07.71 [3676:14636:0905/234407.711:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 06, 2023 03:43:59.14 [3676:14636:0906/034359.142:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Sep 06, 2023 13:14:23.23 [3676:29512:0906/131423.238:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Sep 06, 2023 13:14:24.75 [3676:14636:0906/131424.759:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 06, 2023 14:13:03.42 [3676:14636:0906/141303.422:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 06, 2023 14:24:53.92 [3676:14636:0906/142453.909:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Sep 06, 2023 14:34:03.73 [3676:14636:0906/143403.733:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 06, 2023 17:53:56.64 [3676:14636:0906/175356.648:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -109
+Sep 06, 2023 17:54:01.74 [3676:14636:0906/175401.746:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 06, 2023 17:54:04.79 [3676:22412:0906/175404.792:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Sep 06, 2023 17:54:51.26 [3676:14636:0906/175451.259:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 06, 2023 17:55:07.67 [3676:20172:0906/175507.673:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+Sep 06, 2023 17:56:24.11 [3676:14636:0906/175624.110:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 06, 2023 20:26:58.13 [3676:20172:0906/202658.124:ERROR:device_event_log_impl.cc(222)] [20:26:58.123] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Sep 06, 2023 20:26:59.86 [3676:14636:0906/202659.868:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 06, 2023 20:26:59.89 [3676:14636:0906/202659.893:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+Sep 06, 2023 21:20:20.93 [3676:14636:0906/212020.936:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 06, 2023 21:21:43.99 [3676:14636:0906/212143.997:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 06, 2023 21:28:09.75 [3676:14636:0906/212809.752:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 06, 2023 23:07:14.69 [3676:14636:0906/230714.693:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Sep 07, 2023 03:07:15.64 [3676:22412:0907/030715.645:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Sep 07, 2023 03:07:15.71 [3676:20172:0907/030715.714:ERROR:device_event_log_impl.cc(222)] [03:07:15.711] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Sep 07, 2023 12:52:35.98 [3676:14636:0907/125235.981:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 07, 2023 12:52:35.99 [3676:29512:0907/125235.984:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Sep 07, 2023 12:52:36.53 [3676:14636:0907/125236.533:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 07, 2023 16:49:19.09 [3676:14636:0907/164919.070:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 07, 2023 19:47:34.22 [3676:14636:0907/193011.533:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 07, 2023 20:24:47.84 [3676:20172:0907/202447.833:ERROR:device_event_log_impl.cc(222)] [20:24:47.834] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Sep 07, 2023 20:30:25.24 [3676:14636:0907/203025.243:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 07, 2023 21:26:35.47 [3676:14636:0907/212635.440:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 07, 2023 22:01:17.52 [3676:14636:0907/220117.521:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 07, 2023 23:24:17.44 [3676:14636:0907/232417.445:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 08, 2023 03:24:17.86 [3676:14636:0908/032417.863:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -109
+Sep 08, 2023 03:24:18.18 [3676:20172:0908/032418.183:ERROR:device_event_log_impl.cc(222)] [03:24:18.183] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Sep 08, 2023 03:24:18.51 [3676:20172:0908/032418.518:ERROR:device_event_log_impl.cc(222)] [03:24:18.518] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Sep 08, 2023 15:13:59.78 [3676:14636:0908/151359.783:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 08, 2023 15:13:59.82 [3676:22412:0908/151359.820:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Sep 08, 2023 15:14:34.94 [3676:14636:0908/151434.945:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Sep 08, 2023 15:14:34.96 [3676:10152:0908/151434.960:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Sep 08, 2023 16:33:40.72 [3676:14636:0908/160347.397:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 08, 2023 16:33:41.30 [3676:20172:0908/163341.300:ERROR:device_event_log_impl.cc(222)] [16:33:41.299] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Sep 08, 2023 16:33:41.32 [3676:20172:0908/163341.325:ERROR:device_event_log_impl.cc(222)] [16:33:41.322] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Sep 08, 2023 17:40:33.52 [3676:14636:0908/174033.512:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 08, 2023 19:56:02.11 [3676:14636:0908/195343.291:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 08, 2023 19:57:47.97 [3676:14636:0908/195747.973:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 08, 2023 20:15:58.03 [3676:14636:0908/200316.379:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 08, 2023 20:15:58.06 [3676:14636:0908/201558.063:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Sep 08, 2023 20:33:04.78 [3676:14636:0908/203304.784:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 08, 2023 21:06:20.87 [3676:14636:0908/210620.869:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 08, 2023 21:26:28.26 [3676:14636:0908/212628.259:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Sep 09, 2023 02:24:34.94 [3676:14636:0908/222434.573:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 09, 2023 02:24:34.97 [3676:14636:0909/022434.971:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -109
+Sep 09, 2023 09:22:58.75 [3676:23084:0909/092258.466:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Sep 09, 2023 09:22:59.54 [3676:14636:0909/092259.537:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2023 09:23:42.16 [3676:14636:0909/092342.162:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2023 09:23:43.47 [3676:23084:0909/092343.471:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Sep 09, 2023 09:25:19.68 [3676:14636:0909/092519.680:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2023 09:25:35.99 [3676:23084:0909/092535.985:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Sep 09, 2023 09:30:03.25 [3676:14636:0909/093003.235:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2023 09:33:40.07 [3676:23084:0909/093340.073:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Sep 09, 2023 09:42:03.50 [3676:14636:0909/094203.501:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2023 09:43:40.09 [3676:23084:0909/094340.087:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Sep 09, 2023 12:18:26.71 [3676:14636:0909/121826.709:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2023 12:18:26.72 [3676:25372:0909/121826.716:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Sep 09, 2023 13:04:04.98 [3676:14636:0909/130404.981:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2023 13:04:38.24 [3676:14636:0909/130438.249:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2023 13:05:43.69 [3676:14636:0909/130543.699:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2023 13:06:10.80 [3676:14636:0909/130610.801:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Sep 09, 2023 13:16:32.37 [3676:14636:0909/131632.370:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 09, 2023 14:26:32.37 [3676:14636:0909/142632.367:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 09, 2023 14:33:02.34 [3676:14636:0909/143302.340:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Sep 09, 2023 14:39:37.22 [3676:14636:0909/143937.226:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2023 14:40:10.27 [3676:14636:0909/144010.271:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2023 14:41:10.77 [3676:14636:0909/144110.770:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2023 14:42:32.41 [3676:14636:0909/144232.419:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2023 14:44:13.29 [3676:14636:0909/144413.296:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Sep 09, 2023 15:17:41.83 [3676:14636:0909/151741.831:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2023 15:18:14.09 [3676:14636:0909/151814.095:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2023 15:19:13.41 [3676:14636:0909/151913.417:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2023 15:21:05.15 [3676:14636:0909/152105.155:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2023 15:22:04.44 [3676:14636:0909/152204.443:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Sep 09, 2023 15:22:10.26 [3676:14636:0909/152210.268:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2023 15:22:25.32 [3676:14636:0909/152225.326:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Sep 09, 2023 15:22:29.66 [3676:14636:0909/152229.661:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2023 15:22:30.81 [3676:20172:0909/152230.818:ERROR:device_event_log_impl.cc(222)] [15:22:30.812] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Sep 09, 2023 16:46:05.17 [3676:14636:0909/164605.174:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2023 16:46:05.20 [3676:22412:0909/164605.203:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Sep 09, 2023 19:30:36.23 [3676:14636:0909/193036.233:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 09, 2023 19:30:36.24 [3676:9344:0909/193036.240:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2

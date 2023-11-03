@@ -1,7 +1,7 @@
 package in.co.rays.project_3.dto;
 
 /**
- * marksheet JavaDto encapsulates marksheet attributes
+ * Marksheet DTO encapsulates Marksheet attributes
  * 
  * @author Rahul Goswami
  *
@@ -9,9 +9,6 @@ package in.co.rays.project_3.dto;
 
 public class MarksheetDTO extends BaseDTO {
 
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 	private String rollNo;
 	private long studentId;

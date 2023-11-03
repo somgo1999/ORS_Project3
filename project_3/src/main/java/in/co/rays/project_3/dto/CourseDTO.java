@@ -1,7 +1,7 @@
 package in.co.rays.project_3.dto;
 
 /**
- * course JavaDto encapsulates course attributes
+ * CourseDTO encapsulates Course attributes
  * 
  * @author Rahul Goswami
  *
@@ -9,11 +9,7 @@ package in.co.rays.project_3.dto;
 
 public class CourseDTO extends BaseDTO {
 
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
-
 	private String courseName;
 	private String description;
 	private String duration;

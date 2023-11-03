@@ -4,13 +4,14 @@ import java.sql.Timestamp;
 import java.util.Date;
 
 /**
- * user JavaDto encapsulates user attributes
+ * UserDTO encapsulates User attributes
  * 
  * @author Rahul Goswami
  *
  */
 
 public class UserDTO extends BaseDTO {
+	
 	public static final String ACTIVE = "Active";
 	public static final String INACTIVE = "Inactive";
 	private String firstName;

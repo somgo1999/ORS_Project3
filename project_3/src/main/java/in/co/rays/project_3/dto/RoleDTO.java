@@ -1,16 +1,14 @@
 package in.co.rays.project_3.dto;
 
 /**
- * Role JavaDto encapsulates role attributes
+ * RoleDTO encapsulates Role attributes
  * 
  * @author Rahul Goswami
  *
  */
 
 public class RoleDTO extends BaseDTO {
-	/**
-	 * 
-	 */
+	
 	private static final long serialVersionUID = 1L;
 	public static final int ADMIN = 1;
 	public static final int STUDENT = 2;

@@ -3,17 +3,14 @@ package in.co.rays.project_3.dto;
 import java.util.Date;
 
 /**
- * TimeTable JavaBean encapsulates TimeTable attributes
+ * TimeTableDTO encapsulates TimeTable attributes
  * 
  * @author Rahul Goswami
  *
  */
 
 public class TimetableDTO extends BaseDTO {
-
-	/**
-	 * 
-	 */
+	
 	private static final long serialVersionUID = 1L;
 	private long subId;
 	private long courseId;

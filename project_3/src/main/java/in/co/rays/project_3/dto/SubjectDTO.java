@@ -1,20 +1,22 @@
 package in.co.rays.project_3.dto;
 
 /**
- * subject JavaDto encapsulates subject attributes
+ * SubjectDTO encapsulates Subject attributes
  * 
  * @author Rahul Goswami
  *
  */
 
 public class SubjectDTO extends BaseDTO {
-	/**
-	 * 
-	 */
+	
 	private static final long serialVersionUID = 1L;
 	private long SubjectId;
+	private long courseId;
+	private String subjectName;
+	private String courseName;
+	private String description;
 
-	public long getSubjectId() {
+        public long getSubjectId() {
 		return SubjectId;
 	}
 
@@ -22,11 +24,7 @@ public class SubjectDTO extends BaseDTO {
 		SubjectId = subjectId;
 	}
 
-	private long courseId;
-	private String subjectName;
-	private String courseName;
-	private String description;
-
+	
 	public long getCourseId() {
 		return courseId;
 	}

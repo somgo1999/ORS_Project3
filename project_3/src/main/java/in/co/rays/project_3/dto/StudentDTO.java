@@ -11,9 +11,6 @@ import java.util.Date;
 
 public class StudentDTO extends BaseDTO {
 
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 	private String firstName;
 	private String lastName;
@@ -88,5 +85,4 @@ public class StudentDTO extends BaseDTO {
 		// TODO Auto-generated method stub
 		return firstName + " " + lastName;
 	}
-
 }

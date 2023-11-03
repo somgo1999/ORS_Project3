@@ -18,10 +18,9 @@ import in.co.rays.project_3.util.ServletUtility;
  * @author Rahul Goswami
  *
  */
+
 public abstract class BaseCtl extends HttpServlet {
-	/**
-	 * 
-	 */
+
 	private static final long serialVersionUID = 1L;
 	public static final String OP_SAVE = "Save";
 	public static final String OP_CANCEL = "Cancel";
@@ -42,11 +41,13 @@ public abstract class BaseCtl extends HttpServlet {
 	/**
 	 * Success message key constant
 	 */
+	
 	public static final String MSG_SUCCESS = "success";
 
 	/**
 	 * Error message key constant
 	 */
+	
 	public static final String MSG_ERROR = "error";
 
 	/**
@@ -55,6 +56,7 @@ public abstract class BaseCtl extends HttpServlet {
 	 * @param request object
 	 * @return true boolean
 	 */
+	
 	protected boolean validate(HttpServletRequest request) {
 		return true;
 	}
@@ -64,6 +66,7 @@ public abstract class BaseCtl extends HttpServlet {
 	 *
 	 * @param request object
 	 */
+	
 	protected void preload(HttpServletRequest request) {
 	}
 
@@ -73,11 +76,7 @@ public abstract class BaseCtl extends HttpServlet {
 
 		String createdBy = request.getParameter("createdBy");
 		String modifiedBy = null;
-
-		// UserDTO userDto=(UserDTO)request.getSession().getAttribute("user");
-
 		HttpSession session = request.getSession();
-
 		UserDTO userDto = (UserDTO) session.getAttribute("user");
 
 		if (userDto == null) {
@@ -110,6 +109,7 @@ public abstract class BaseCtl extends HttpServlet {
 	 * @param request object
 	 * @return null basedto
 	 */
+
 	protected BaseDTO populateDTO(HttpServletRequest request) {
 		return null;
 	}

@@ -1,7 +1,7 @@
 package in.co.rays.project_3.dto;
 
 /**
- * College JavaBean encapsulates College attributes
+ * CollegeDTO encapsulates College attributes
  * 
  * @author Rahul Goswami
  *

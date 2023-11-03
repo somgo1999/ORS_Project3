@@ -8,9 +8,7 @@ package in.co.rays.project_3.dto;
  */
 
 public class CollegeDTO extends BaseDTO {
-	/**
-	 * 
-	 */
+	
 	private static final long serialVersionUID = 1L;
 	private String name;
 	private String address;

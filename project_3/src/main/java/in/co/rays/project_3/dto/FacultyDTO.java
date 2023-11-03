@@ -3,16 +3,14 @@ package in.co.rays.project_3.dto;
 import java.util.Date;
 
 /**
- * faculty JavaDto encapsulates faculty attributes
+ * FacultyDTO encapsulates Faculty attributes
  * 
  * @author Rahul Goswami
  *
  */
 
 public class FacultyDTO extends BaseDTO {
-	/**
-	 * 
-	 */
+	
 	private static final long serialVersionUID = 1L;
 	private String firstName;
 	private String lastName;

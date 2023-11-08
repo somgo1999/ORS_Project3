@@ -72,15 +72,10 @@ public class ForgetPasswordCtl extends BaseCtl {
 			try {
 				System.out.println(dto.getLogin());
 				boolean flag = userModel.forgetPassword(dto.getLogin());
-				ServletUtility.setSuccessMessage("password has been send to your login id", request);
 				if (flag == true) {
+					ServletUtility.setSuccessMessage("password has been send to your login id", request);
 					ServletUtility.forward(getView(), request, response);
-
-				} else {
-					ServletUtility.redirect(ORSView.ERROR_CTL, request, response);
-					return;
-				}
-
+				} 
 			} catch (RecordNotFoundException e) {
 				ServletUtility.setErrorMessage(e.getMessage(), request);
 				log.error(e);

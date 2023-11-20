@@ -5,15 +5,18 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * data Uility class to format data
+ * Data Uility class to format data from one format to another
  * 
  * @author Rahul Goswami
  *
  */
+
 public class DataUtility {
+
 	/**
 	 * Application time data formate
 	 */
+	
 	public static final String APP_DATE_FORMATE = "MM/dd/yyyy";
 
 	public static final String APP_TIME_FORMATE = "MM/dd/yyyy HH:mm:ss";
@@ -21,15 +24,17 @@ public class DataUtility {
 	/**
 	 * Applicaton time data formate
 	 */
+	
 	public static final SimpleDateFormat formatter = new SimpleDateFormat(APP_DATE_FORMATE);
 	public static final SimpleDateFormat timeFormatter = new SimpleDateFormat(APP_TIME_FORMATE);
 
 	/**
-	 * getString(String s) Trims and trailing and leading spaces of a String
+	 * getString(String s) Trims trailing and leading spaces of a String
 	 *
 	 * @param val
 	 * @return val
 	 */
+	
 	public static String getString(String val) {
 		if (DataValidator.isNotNull(val)) {
 			return val.trim();
@@ -107,11 +112,12 @@ public class DataUtility {
 	}
 
 	/**
-	 * convert string to date
+	 * Convert string to date
 	 * 
 	 * @param date
 	 * @return
 	 */
+	
 	public static String getDateString(Date date) {
 		try {
 			return formatter.format(date);
@@ -123,22 +129,24 @@ public class DataUtility {
 	}
 
 	/**
-	 * convert date and time
+	 * Convert date and time
 	 * 
 	 * @param date
 	 * @param day
 	 * @return
 	 */
+	
 	public static Date getDate(Date date, int day) {
 		return null;
 	}
 
 	/**
-	 * convert timestamp to string
+	 * Convert timestamp to string
 	 * 
 	 * @param val
 	 * @return
 	 */
+	
 	public static Timestamp geTimestamp(String val) {
 		Timestamp timeStamp = null;
 		try {
@@ -152,11 +160,12 @@ public class DataUtility {
 	}
 
 	/**
-	 * convert timestamp in to long
+	 * Convert timestamp in to long
 	 * 
 	 * @param l
 	 * @return
 	 */
+	
 	public static Timestamp getTimeStamp(long l) {
 		Timestamp timeStamp = null;
 		try {
@@ -169,10 +178,11 @@ public class DataUtility {
 	}
 
 	/**
-	 * convert timestamp in to string
+	 * Convert timestamp in to string
 	 * 
 	 * @return Timestamp
 	 */
+
 	public static Timestamp getCurrentTimeStamp() {
 		Timestamp timeStamp = null;
 		try {
@@ -185,11 +195,12 @@ public class DataUtility {
 	}
 
 	/**
-	 * convert timestamp timestamp to long
+	 * Convert timestamp to long
 	 * 
 	 * @param tm
 	 * @return long
 	 */
+	
 	public static long getTimestamp(Timestamp tm) {
 		try {
 			return tm.getTime();
